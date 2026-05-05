@@ -1,5 +1,5 @@
 # STUDENT-ENROLLMENT-COURSE-SYSTEM
- Project Description
+## Project Description
 This project is a database management system designed to manage students, courses, enrollments, exams, and results.
 
 ##  Objectives
